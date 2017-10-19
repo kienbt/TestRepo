@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
 			i = 10;
 		i += i;
 		
-		Log.i("abc", "i=" + i);
+		Log.i("MainActivity", "i=" + i);
     }
 }
